@@ -1,6 +1,6 @@
 
 # ContextNet 
-Pytorch implementation for (PRCV 2023) [ContextNet: Learning Context Information for Texture-less Light Field Depth Estimation](PRCV2023_ContextNet.pdf). 
+Pytorch implementation for (PRCV 2023) [ContextNet: Learning Context Information for Texture-less Light Field Depth Estimation](https://github.com/chaowentao/ContextNet/blob/master/PRCV2023_ContextNet.pdf). 
 
 # Environment
 ```
