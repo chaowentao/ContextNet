@@ -1,4 +1,3 @@
-
 # ContextNet 
 Pytorch implementation for (PRCV 2023) [ContextNet: Learning Context Information for Texture-less Light Field Depth Estimation](https://github.com/chaowentao/ContextNet/blob/master/PRCV2023_ContextNet.pdf). 
 
@@ -30,7 +29,7 @@ The pretrained weights are available in the [https://drive.google.com/file/d/1tR
 **If you find this work helpful, please consider citing:**
 ```
 @inproceedings{chao2023contextnet,
-  title={LAGAN: Landmark Aided Text to Face Sketch Generation},
+  title={ContextNet: Learning Context Information for Texture-less Light Field Depth Estimation},
   author={Chao, Wentao and  Wang, Xuechun and Kan, Yiming and Duan, Fuqing},
   booktitle={Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
   year={2023},
